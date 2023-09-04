@@ -1,2 +1,2 @@
 # byte-upskill-by-python
-ฝึกลองเขียนไพทอน
+Workshop Python
